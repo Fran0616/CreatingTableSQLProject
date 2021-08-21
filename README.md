@@ -83,24 +83,6 @@ FROM friends;
 
 Final Table
 =
-__________
-
-|id  |name     |birthday  |email|
-
-
-|2|
-|Francisco|
-03/23/90|
-
-
-|3
-|Stefanie
-|09/28/02|
-
-___________
-
-
-
 
 | id  | name | birthday | email |
 | ------------- | ------------- | ------------- | ------------- |
