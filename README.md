@@ -81,7 +81,7 @@ FROM friends;
 
 
 
-Final Table
+Friends Table
 =
 
 | id  | name | birthday | email |
